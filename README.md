@@ -1,31 +1,39 @@
-# Web Programming Exercise 8
+# Web Programming Exercise 9
 Javascript Creating & Removing Elements:
 https://drive.google.com/file/d/1Tc6pSC742hU4BGaESehcHKfouvuQeewe/view?usp=sharing
 
 
 ## Exercise 1:
 
-When button is clicked, remove the box.
+When Double-click a title make it rotate. Toggle class.
 
-https://github.com/user-attachments/assets/9e836e01-faa3-4795-836a-18d5fe50ca40
+https://github.com/user-attachments/assets/52b02eaa-34ce-48d1-aa78-373f49316f3e
 
 ---
 
 ## Exercise 2:
 
-Add boxes numbered 1, 2, 3…     
-Each new box shows its number inside.   
+Button toggles menu visibility.
 
-https://github.com/user-attachments/assets/3bac96cf-0e0d-465c-8baf-cca296b8eb8d
+https://github.com/user-attachments/assets/380f1bc3-fd70-4d55-8a5e-2dacb9fe2680
 
 ---
 
 ## Exercise 3:
 
-Click the button → creates a circle with random color.   
-Click a circle → it deletes itself.
+Every click increases the number of likes.
 
-https://github.com/user-attachments/assets/78d684f0-63b6-4538-aa85-7ea82318eb80
+https://github.com/user-attachments/assets/0a131521-b880-4cb4-be31-e661aa4e95da
+
+---
+
+## Exercise 4:
+
+Hover over the text → becomes big + blue
+Mouse leaves → goes back to normal.
+
+https://github.com/user-attachments/assets/772a5cee-d2d5-4e9a-b0e2-d99a45ae5a5f
+
 
 
 
